@@ -1,6 +1,6 @@
 function add(message,callback){
     console.log(message);
-    callback();
+     return callback();
 }
 
 function sum(a,b){
